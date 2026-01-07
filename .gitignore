@@ -1,0 +1,31 @@
+# Dados sensíveis
+data/estudantes.csv
+data/certificados/*.pdf
+
+# Logs
+logs/*.log
+logs/*.txt
+
+# Protocolos gerados
+protocolos/*.txt
+protocolos/*.json
+
+# Configurações locais (se houver)
+config/config.local.php
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
